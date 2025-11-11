@@ -1,5 +1,5 @@
 /**
- * File: FruitMarket.java
+ * File: Customer.java
  * Author: Jake Balula
  * Course: CS451
  * Date: 11/5
